@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CLivro">
+    <output-path>$PROJECT_DIR$/out/artifacts/CLivro</output-path>
+    <root id="archive" name="CLivro.jar">
+      <element id="module-output" name="CompraLivro" />
+    </root>
+  </artifact>
+</component>
